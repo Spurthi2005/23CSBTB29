@@ -5,3 +5,4 @@ https://github.com/Spurthi2005/23CSBTB29/blob/main/Untitled4.ipynb
 https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_4.ipynb
 https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_LAB5.ipynb
 https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_LAB6.ipynb
+https://github.com/Spurthi2005/23CSBTB29/blob/main/SVM_kernals.ipynb
