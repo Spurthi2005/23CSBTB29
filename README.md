@@ -8,4 +8,5 @@ https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_LAB6.ipynb
 https://github.com/Spurthi2005/23CSBTB29/blob/main/SVM_kernals.ipynb    (ASSIGN 7)
 https://github.com/Spurthi2005/23CSBTB29/blob/main/Decision_Tree_ASS_7.ipynb (ASSIGN 8)
 https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_ASS_9.ipynb     (ASSIGN 9)
+https://github.com/Spurthi2005/23CSBTB29/blob/main/AIML_ASS_10.ipynb     (ASSIGN 10)
 https://github.com/Spurthi2005/23CSBTB29/blob/main/Lab_Exam.ipynb   (Lab Exam)
